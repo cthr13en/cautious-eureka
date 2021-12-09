@@ -34,6 +34,6 @@ This left me with 70,000 rows
 ![UFO_Sightings_By_Time](https://user-images.githubusercontent.com/91361493/145460976-d84c3912-e07d-4ae7-9854-d0d9bc9efde1.png)
 
 #Analytical Technique:
-The questions that I asked weren't too complicated, so I constructed bar charts to depict the answers to my questions.  The first visualization shows that the US far exceeds the other countries for UFO sightings with 70 thousand. Even being on the same continent, Canada is the second-highest in the number of people seeing UFOs with 3,500, but Mexico only reported 223 cases. As for the shape people most see, light was the predominant visual. Not surprisingly, the sweet spots for seeing a UFO were between the hours of 9 and 10 in the evening. 
+The questions that I asked weren't too complicated, so I constructed bar charts to depict the answers to my questions.  The first visualization shows that the US far exceeds the other countries for UFO sightings with 70 thousand. Even being on the same continent, Canada is the second-highest in the number of people seeing UFOs with 3,500, but Mexico only reported 223 cases. As for the shape people most see, light was the predominant visual. Not surprisingly, UFOs only come out at night. UFOs were most active between eight and eleven, but the sweet spots for seeing a UFO were between the hours of 9 and 10 in the evening. 
 
 
